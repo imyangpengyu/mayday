@@ -1,0 +1,14 @@
+GitHub使用：
+1.下载客户端 https://desktop.github.com/
+2.在网页上打开项目，点击Clone or download——Open in Desktop，选择本地目录保存
+3.使用idea在本地打开项目，配置jdk和Tomcat
+4.修改代码之后，客户端会自动显示Changes，请及时提交，并大致写明修改的内容
+*如果提交时有冲突，请手动处理冲突，或者通知别的组员来处理*
+*如果jdk或tomcat版本不同，修改代码之后请不要提交重新编译过的.class和相关配置文件*
+	处理方法：在Changes中选中不需要提交的文件，右击——ignore/ignore all .class file
+
+数据库的使用：
+1.在navicat中新建数据库：lottery
+2.运行lottery.sql
+3.新建用户，用户名：lottery，密码：123456，授予全部权限
+*如果修改过数据库，请及时转储sql文件并提交*

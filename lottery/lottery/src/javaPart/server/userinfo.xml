@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<i2finance>
+    <users>
+        <user group="mayday">
+            <userid>1</userid>
+            <username>杨鹏宇</username>
+            <userimage>src/java/image/3.jpg</userimage>
+        </user>
+        <user group="卓尔不群">
+            <userid>2</userid>
+            <username>郭宇浩</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="hello上海">
+            <userid>3</userid>
+            <username>王俊将</username>
+            <userimage>src/java/image/9.jpg</userimage>
+        </user>
+        <user group="青春花少">
+            <userid>4</userid>
+            <username>白昊天</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="青春花少">
+            <userid>5</userid>
+            <username>褚乾江</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="飞梦">
+            <userid>6</userid>
+            <username>李忠富</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="飞梦">
+            <userid>7</userid>
+            <username>贾增强</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="飞梦">
+            <userid>8</userid>
+            <username>秦慧超</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="飞梦">
+            <userid>9</userid>
+            <username>韩永</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="飞梦">
+            <userid>10</userid>
+            <username>张辉耀</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="飞梦">
+            <userid>11</userid>
+            <username>胡金华</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="mayday">
+            <userid>12</userid>
+            <username>史建亮</username>
+            <userimage>src/java/image/3.jpg</userimage>
+        </user>
+        <user group="mayday">
+            <userid>13</userid>
+            <username>焦普春</username>
+            <userimage>src/java/image/3.jpg</userimage>
+        </user>
+        <user group="mayday">
+            <userid>14</userid>
+            <username>路鹏</username>
+            <userimage>src/java/image/3.jpg</userimage>
+        </user>
+        <user group="mayday">
+            <userid>15</userid>
+            <username>马院红</username>
+            <userimage>src/java/image/3.jpg</userimage>
+        </user>
+        <user group="mayday">
+            <userid>16</userid>
+            <username>江泓</username>
+            <userimage>src/java/image/3.jpg</userimage>
+        </user>
+        <user group="卓尔不群">
+            <userid>17</userid>
+            <username>左士杰</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="卓尔不群">
+            <userid>18</userid>
+            <username>王肃国</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="卓尔不群">
+            <userid>19</userid>
+            <username>林新福</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="卓尔不群">
+            <userid>20</userid>
+            <username>杨健乐</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="hello上海">
+            <userid>21</userid>
+            <username>胡蝶</username>
+            <userimage>src/java/image/9.jpg</userimage>
+        </user>
+        <user group="hello上海">
+            <userid>22</userid>
+            <username>于锐信</username>
+            <userimage>src/java/image/9.jpg</userimage>
+        </user>
+        <user group="hello上海">
+            <userid>23</userid>
+            <username>宋子安</username>
+            <userimage>src/java/image/9.jpg</userimage>
+        </user>
+        <user group="hello上海">
+            <userid>24</userid>
+            <username>沈明辉</username>
+            <userimage>src/java/image/9.jpg</userimage>
+        </user>
+        <user group="青春花少">
+            <userid>25</userid>
+            <username>付辰辰</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="青春花少">
+            <userid>26</userid>
+            <username>王福强</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="青春花少">
+            <userid>27</userid>
+            <username>申泽军</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="1024">
+            <userid>28</userid>
+            <username>陈伯利</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="1024">
+            <userid>29</userid>
+            <username>胡一凡</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="1024">
+            <userid>30</userid>
+            <username>温韶辉</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="1024">
+            <userid>31</userid>
+            <username>任强</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="1024">
+            <userid>32</userid>
+            <username>赵荣坤</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="火力全开">
+            <userid>33</userid>
+            <username>韩磊磊</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="火力全开">
+            <userid>34</userid>
+            <username>吴秦忠</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="火力全开">
+            <userid>35</userid>
+            <username>陆育静</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="火力全开">
+            <userid>36</userid>
+            <username>张沛</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="火力全开">
+            <userid>37</userid>
+            <username>虎鹏瑞</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="火力全开">
+            <userid>38</userid>
+            <username>白展恺</username>
+            <userimage>src/java/image/10.jpg</userimage>
+        </user>
+        <user group="从零开始">
+            <userid>39</userid>
+            <username>高鹏</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="从零开始">
+            <userid>40</userid>
+            <username>李恒</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="从零开始">
+            <userid>41</userid>
+            <username>刘青</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="从零开始">
+            <userid>42</userid>
+            <username>方飞</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="从零开始">
+            <userid>43</userid>
+            <username>赵泽宇</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+        <user group="从零开始">
+            <userid>44</userid>
+            <username>杨彦娇</username>
+            <userimage>src/java/image/6.jpg</userimage>
+        </user>
+    </users>
+</i2finance>
