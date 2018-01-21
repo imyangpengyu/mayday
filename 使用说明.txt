@@ -6,6 +6,9 @@ GitHub使用：
 *如果提交时有冲突，请手动处理冲突，或者通知别的组员来处理*
 *如果jdk或tomcat版本不同，修改代码之后请不要提交重新编译过的.class和相关配置文件*
 	处理方法：在Changes中选中不需要提交的文件，右击——ignore/ignore all .class file
+*idea的workspace.xml和lottery.iml文件不要提交*
+*需要用到的外部包放在WEB-INF/lib文件夹下，添加了新的外部包请及时上传并提醒组员导入*
+	目前需要添加的外部包：lombok.jar和mysql-connector-java-5.1.44-bin.jar
 
 数据库的使用：
 1.在navicat中新建数据库：lottery
