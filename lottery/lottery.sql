@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50554
 File Encoding         : 65001
 
-Date: 2018-01-22 09:52:18
+Date: 2018-01-22 10:23:38
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -91,26 +91,26 @@ INSERT INTO `cj_user` VALUES ('19', '张沛', 'D:\\Picture', '1996-04-03', '0', 
 INSERT INTO `cj_user` VALUES ('20', '韩磊磊', 'D:\\Picture', '1996-04-04', '0', '4');
 INSERT INTO `cj_user` VALUES ('21', '虎鹏瑞', 'D:\\Picture', '1996-04-05', '0', '4');
 INSERT INTO `cj_user` VALUES ('22', '白展恺', 'D:\\Picture', '1996-04-06', '0', '4');
-INSERT INTO `cj_user` VALUES ('23', '史建亮', 'D:\\Picture', '1996-04-06', '0', '5');
+INSERT INTO `cj_user` VALUES ('23', '史建亮', 'D:\\Picture', '0000-00-00', '0', '5');
 INSERT INTO `cj_user` VALUES ('24', '杨鹏宇', 'D:\\Picture', '1997-04-28', '0', '5');
 INSERT INTO `cj_user` VALUES ('25', '焦普春', 'D:\\Picture', '1996-11-07', '0', '5');
 INSERT INTO `cj_user` VALUES ('26', '路鹏', 'D:\\Picture', '1994-08-16', '0', '5');
 INSERT INTO `cj_user` VALUES ('27', '马院红', 'D:\\Picture', '1994-04-12', '0', '5');
 INSERT INTO `cj_user` VALUES ('28', '江泓', 'D:\\Picture', '1996-02-12', '0', '5');
-INSERT INTO `cj_user` VALUES ('29', '王俊将', 'D:\\Picture', '1996-05-06', '0', '6');
-INSERT INTO `cj_user` VALUES ('30', '白洁', 'D:\\Picture', '1996-06-01', '0', '6');
-INSERT INTO `cj_user` VALUES ('31', '申泽军', 'D:\\Picture', '1996-06-02', '0', '6');
-INSERT INTO `cj_user` VALUES ('32', '白昊天', 'D:\\Picture', '1996-06-03', '0', '6');
-INSERT INTO `cj_user` VALUES ('33', '褚乾江', 'D:\\Picture', '1996-06-04', '0', '6');
-INSERT INTO `cj_user` VALUES ('34', '王福强', 'D:\\Picture', '1996-06-05', '0', '6');
-INSERT INTO `cj_user` VALUES ('35', '付辰辰', 'D:\\Picture', '1996-06-06', '0', '6');
-INSERT INTO `cj_user` VALUES ('36', '贾增强', 'D:\\Picture', '1996-07-01', '0', '7');
-INSERT INTO `cj_user` VALUES ('37', '秦慧超', 'D:\\Picture', '1996-07-02', '0', '7');
-INSERT INTO `cj_user` VALUES ('38', '韩永', 'D:\\Picture', '1996-07-03', '0', '7');
-INSERT INTO `cj_user` VALUES ('39', '李忠富', 'D:\\Picture', '1996-07-04', '0', '7');
-INSERT INTO `cj_user` VALUES ('40', '张辉耀', 'D:\\Picture', '1996-07-05', '0', '7');
-INSERT INTO `cj_user` VALUES ('41', '胡金华', 'D:\\Picture', '1996-07-06', '0', '7');
-INSERT INTO `cj_user` VALUES ('42', '郭宇浩', 'D:\\Picture', '1996-08-01', '0', '8');
-INSERT INTO `cj_user` VALUES ('43', '左士杰', 'D:\\Picture', '1996-08-02', '0', '8');
-INSERT INTO `cj_user` VALUES ('44', '王肃国', 'D:\\Picture', '1996-08-03', '0', '8');
-INSERT INTO `cj_user` VALUES ('45', '林新福', 'D:\\Picture', '1996-08-04', '0', '8');
+INSERT INTO `cj_user` VALUES ('29', '白洁', 'D:\\Picture', '1996-06-01', '0', '6');
+INSERT INTO `cj_user` VALUES ('30', '申泽军', 'D:\\Picture', '1996-06-02', '0', '6');
+INSERT INTO `cj_user` VALUES ('31', '白昊天', 'D:\\Picture', '1996-06-03', '0', '6');
+INSERT INTO `cj_user` VALUES ('32', '褚乾江', 'D:\\Picture', '1996-06-04', '0', '6');
+INSERT INTO `cj_user` VALUES ('33', '王福强', 'D:\\Picture', '1996-06-05', '0', '6');
+INSERT INTO `cj_user` VALUES ('34', '付辰辰', 'D:\\Picture', '1996-06-06', '0', '6');
+INSERT INTO `cj_user` VALUES ('35', '贾增强', 'D:\\Picture', '1996-07-01', '0', '7');
+INSERT INTO `cj_user` VALUES ('36', '秦慧超', 'D:\\Picture', '1996-07-02', '0', '7');
+INSERT INTO `cj_user` VALUES ('37', '韩永', 'D:\\Picture', '1996-07-03', '0', '7');
+INSERT INTO `cj_user` VALUES ('38', '李忠富', 'D:\\Picture', '1996-07-04', '0', '7');
+INSERT INTO `cj_user` VALUES ('39', '张辉耀', 'D:\\Picture', '1996-07-05', '0', '7');
+INSERT INTO `cj_user` VALUES ('40', '胡金华', 'D:\\Picture', '1996-07-06', '0', '7');
+INSERT INTO `cj_user` VALUES ('41', '郭宇浩', 'D:\\Picture', '1996-08-01', '0', '8');
+INSERT INTO `cj_user` VALUES ('42', '左士杰', 'D:\\Picture', '1996-08-02', '0', '8');
+INSERT INTO `cj_user` VALUES ('43', '王肃国', 'D:\\Picture', '1996-08-03', '0', '8');
+INSERT INTO `cj_user` VALUES ('44', '林新福', 'D:\\Picture', '1996-08-04', '0', '8');
+INSERT INTO `cj_user` VALUES ('45', '杨健乐', 'D:\\Picture', '1996-08-05', '0', '8');
