@@ -1,22 +1,22 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : mysql
-Source Server Version : 80000
+Source Server         : localhost_3306
+Source Server Version : 50554
 Source Host           : localhost:3306
 Source Database       : lottery
 
 Target Server Type    : MYSQL
-Target Server Version : 80000
+Target Server Version : 50554
 File Encoding         : 65001
 
-Date: 2018-01-21 19:52:54
+Date: 2018-01-22 09:52:18
 */
 
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
--- Table structure for `cj_log`
+-- Table structure for cj_log
 -- ----------------------------
 DROP TABLE IF EXISTS `cj_log`;
 CREATE TABLE `cj_log` (
@@ -31,7 +31,7 @@ CREATE TABLE `cj_log` (
 -- ----------------------------
 
 -- ----------------------------
--- Table structure for `cj_team`
+-- Table structure for cj_team
 -- ----------------------------
 DROP TABLE IF EXISTS `cj_team`;
 CREATE TABLE `cj_team` (
@@ -53,7 +53,7 @@ INSERT INTO `cj_team` VALUES ('7', '飞梦');
 INSERT INTO `cj_team` VALUES ('8', '卓尔不群');
 
 -- ----------------------------
--- Table structure for `cj_user`
+-- Table structure for cj_user
 -- ----------------------------
 DROP TABLE IF EXISTS `cj_user`;
 CREATE TABLE `cj_user` (
@@ -96,8 +96,8 @@ INSERT INTO `cj_user` VALUES ('24', '杨鹏宇', 'D:\\Picture', '1997-04-28', '0
 INSERT INTO `cj_user` VALUES ('25', '焦普春', 'D:\\Picture', '1996-11-07', '0', '5');
 INSERT INTO `cj_user` VALUES ('26', '路鹏', 'D:\\Picture', '1994-08-16', '0', '5');
 INSERT INTO `cj_user` VALUES ('27', '马院红', 'D:\\Picture', '1994-04-12', '0', '5');
-INSERT INTO `cj_user` VALUES ('28', '江泓', 'D:\\Picture', '1996-02-12', '0', '6');
-INSERT INTO `cj_user` VALUES ('29', '王俊将', 'D:\\Picture', '1996-05-06', '0', '5');
+INSERT INTO `cj_user` VALUES ('28', '江泓', 'D:\\Picture', '1996-02-12', '0', '5');
+INSERT INTO `cj_user` VALUES ('29', '王俊将', 'D:\\Picture', '1996-05-06', '0', '6');
 INSERT INTO `cj_user` VALUES ('30', '白洁', 'D:\\Picture', '1996-06-01', '0', '6');
 INSERT INTO `cj_user` VALUES ('31', '申泽军', 'D:\\Picture', '1996-06-02', '0', '6');
 INSERT INTO `cj_user` VALUES ('32', '白昊天', 'D:\\Picture', '1996-06-03', '0', '6');
